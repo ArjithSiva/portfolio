@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 800" width="1280" height="800">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2a0e08"/><stop offset="1" stop-color="#c2410c"/></linearGradient>
+<pattern id="p" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#fff" stroke-opacity=".07"/></pattern></defs>
+<rect width="1280" height="800" fill="url(#g)"/><rect width="1280" height="800" fill="url(#p)"/>
+<g font-family="ui-monospace,Consolas,monospace" fill="#fff">
+<text x="80" y="640" font-size="30" fill-opacity=".6">POST /api/orders → "In Kitchen"</text>
+<text x="80" y="540" font-size="76" font-weight="700" letter-spacing="2">FORNO</text>
+<text x="80" y="590" font-size="30" fill-opacity=".75">MERN pizza platform · OIBSIP</text></g>
+<rect x="80" y="120" width="120" height="6" fill="#fff" fill-opacity=".8"/></svg>

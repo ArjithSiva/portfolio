@@ -1,0 +1,80 @@
+aarjith2006@gmail.com
++91 9600071192
+
+ARJITH A
+
+linkedin.com/in/arjithsiva
+github.com/ArjithSiva
+arjithsiva.github.io/portfolio
+
+Full-Stack Developer | Python Developer | Systems Administrator
+EDUCATION
+B.E. Computer Science and Engineering (IoT), Sri Sairam Engineering College · CGPA 8.08
+
+2024 – May 2028
+
+EXPERIENCE
+Freelance Software Developer, NanoTec Solutions
+
+2024 – Present
+
+Sole developer: requirements, design, backend, UI, deployment and support.
+Putturkattu CIMS (Putturkattu Bone and Joint Centre, Vadapalani, 2026): clinic system for billing, token queues,
+pharmacy stock and SMS/WhatsApp messages, handling 200–300 billings a day.
+Migrated the clinic’s database from SQL Server 2005 to MySQL 8.0 with 100% data integrity.
+HMS-MRD (Government Hospital, Krishnagiri, 2025): Flask interface over a legacy SQL Server 2005 database. Websites
+for Government Medical College, Tiruvannamalai and Ramanathapuram (2026), with a secure duty-roster portal.
+Temple Devotee Management System (2026): offline desktop system built with Python, SQLAlchemy and MySQL to
+track temple income, spending, donations and the devotee database.
+Delivered 10+ client projects, including ayyavaigundar.in (2024, rebuilt 2026), aacon.in (Aladi Aruna College of Nursing,
+Tenkasi, 2025), srinidhiassociate.in (2025), hospitalsuppliars.co.in (2024), nanotecsoft.in and arinfotec.in (2026),
+secured with Cloudflare DNS and free SSL.
+Web Development Intern (virtual), Oasis Infobyte, AICTE OIB-SIP
+
+Sep – Oct 2026
+
+Seven web tasks, ending with Forno, a full-stack MERN pizza-ordering app.
+
+PROJECTS
+HarvQ (Smart India Hackathon, 2026): queue system for farmers, with a web app and a multilingual phone (IVR) simulator
+using the Bhashini API.
+ZeroSignal (2026): emergency alerts that adapt to each receiver’s connection, with signed alerts and 2FA.
+EduMind AI (Build Bengaluru, 2026): study planner that rebuilds itself around low quiz scores, with an AI tutor.
+Signify (final-year project, in development): ESP32 smart glove that turns hand gestures into speech.
+
+TECHNICAL SKILLS
+Languages
+
+Python, JavaScript, TypeScript, SQL, PHP, C/C++
+
+Backend and web
+
+Flask, Node.js, Express, React, REST APIs, Tailwind CSS
+
+Databases
+
+MySQL, SQL Server, PostgreSQL, MongoDB
+
+IoT and AI
+
+ESP32, Arduino, MQTT, Pandas, Ollama, RAG, OpenCV
+
+Tools
+
+Linux, Git, Cloudflare, DNS, Windows Server, networking and CCTV setup
+
+ACHIEVEMENTS
+Smart India Hackathon 2026: selected for the national round (HarvQ).
+SkillRack: Department First in both first and second year.
+Participated in Build Bengaluru, AUREX’26 and ELECTROLYTHON 2026.
+Speaker and student coordinator, department Skill Enrichment Programs.
+
+CERTIFICATIONS
+Google AI Professional Certificate · Google Cybersecurity Professional Certificate · Google IT Automation with Python · UC
+Irvine, Programming the Internet of Things · UPenn, Programming with Python and Java · Anthropic Academy, Claude API
+and MCP. Full list on LinkedIn.
+Coding profiles
+
+SkillRack · LeetCode · HackerRank
+
+

@@ -1,0 +1,26 @@
+.text-type {
+  display: inline-block;
+  white-space: pre-wrap;
+}
+
+.text-type__cursor {
+  margin-left: 0.25rem;
+  display: inline-block;
+  opacity: 1;
+  /* Blink runs on the compositor; the old GSAP yoyo tween kept the GSAP ticker
+     (a requestAnimationFrame loop) alive for the entire visit. */
+  animation: text-type-blink 0.5s ease-in-out infinite alternate;
+}
+
+@keyframes text-type-blink {
+  from { opacity: 1; }
+  to { opacity: 0; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .text-type__cursor { animation: none; }
+}
+
+.text-type__cursor--hidden {
+  display: none;
+}
